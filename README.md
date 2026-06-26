@@ -16,10 +16,10 @@ The tool performs common system health checks such as disk usage, memory usage, 
 
 ## Project Structure
 server-health-check/
-├── main.py
-├── monitoring.py
-├── config.py
-└── README.md
+  main.py
+  monitoring.py
+  config.py
+  README.md
 
 ## Sample Menu
 1. Disk Usage Check
